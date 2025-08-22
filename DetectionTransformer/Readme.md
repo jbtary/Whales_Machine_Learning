@@ -12,7 +12,7 @@ Also included are:
 
 Please cite these references in the case of re-using some of these codes:
 
-Tary, J. B., Poveda, S. F., Li, K. L., Peirce, C., Hobbs, Richard W., and Vargas, C. A. (2025). "Detection and localization of Bryde’s whale calls using machine learning and probabilistic back-projection," Journal of the Acoustical Society of America.
+Tary, J. B., Poveda, S. F., Li, K. L., Peirce, C., Hobbs, Richard W., and Vargas, C. A. (2025). "Detection and localization of Bryde’s whale calls using machine learning and probabilistic back-projection," The Journal of the Acoustical Society of America, 158(2), 1386-1397.
 
 Woollam, J., Munchmeyer, J., Tilmann, F., Rietbrock, A., Lange, D., Bornstein, T., and Soto, H. (2022). "SeisBench: A toolbox for machine learning in seismology," Seismol. Res. Lett. 93(3), 1695–1709.
 
